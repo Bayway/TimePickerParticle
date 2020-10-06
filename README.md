@@ -1,7 +1,6 @@
 [![](https://jitpack.io/v/bayway/timepickerparticle.svg)](https://jitpack.io/#bayway/timepickerparticle)
 
 # TimePickerParticle
-========
 
 A simple Android TimePickerDialog with hour, minutes and seconds. This widget is an extension of [TimePickerWithSeconds][1].
 
