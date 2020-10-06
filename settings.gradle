@@ -1,0 +1,3 @@
+include ':TimePickerParticleDialog'
+include ':app'
+rootProject.name = "TimePickerParticle"
